@@ -1,0 +1,6 @@
+{
+  "name": "Studying-reactjs",
+  "tagline": "Studying how to start with reactjs / App to search userinfo and github repos",
+  "body": "Just a simple application to search userinfo and repositories from Github. It was made in ReactJs following JSCasts course tips.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
